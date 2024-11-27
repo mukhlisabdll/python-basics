@@ -14,10 +14,14 @@ Proyek ini berisi latihan dasar Python yang telah disusun dalam folder berdasark
   Latihan pengendalian alur program menggunakan kondisi dan perulangan.
 - **05-functions**  
   Latihan tentang fungsi, parameter, dan nilai balik.
+- **06-data-structures**  
+  Latihan tentang struktur data seperti list, tuple, dan dictionary.
+- **07-file-handling**  
+  Latihan tentang membaca dan menulis file di Python.
 
 ## Progres
 
-Saat ini, saya telah menyelesaikan latihan-latihan hingga folder **05-functions**.
+Saat ini, saya telah menyelesaikan latihan-latihan hingga folder **07-file-handling**.
 
 ## Cara Menjalankan
 
